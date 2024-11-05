@@ -1,0 +1,22 @@
+:root {
+  --font-size: 1.1vw;
+  --main-font: "Times New Roman", Times, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,body {
+  font: caption;
+  font-family: var(--main-font);
+  font-size: var(--font-size);
+  overflow: hidden; 
+  block-size: auto;
+}
+
+.App{
+  width: 100vw;
+  height: 100vh;
+  margin: 0vw;
+}

@@ -1,0 +1,6 @@
+NewWebsite/server/node_modules/
+NewWebsite/client/node_modules/
+client/node_modules/
+server/node_modules/
+client/.parcel-cache/
+client/dist/
